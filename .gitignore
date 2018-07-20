@@ -1,8 +1,8 @@
-*/Build
-*/Binaries
-*/DerivedDataCache
-*/Saved
-*/Intermediate
-Contet/StarterContent/
+*\\Build
+*\\Binaries
+*\\DerivedDataCache
+*\\Saved
+*\\Intermediate
+Contet\\StarterContent\\
 *.VC.db
 *.VC.opendb
